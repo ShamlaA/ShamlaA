@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShamlaA
+- 👋 Hi, I’m @Shamla
 - 👀 I’m interested in Graphic design
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
